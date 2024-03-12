@@ -110,8 +110,7 @@
 			}
 
 			.dropdown-icon {
-				margin: 4px;
-				margin-left: 8px;
+				margin: 4px 8px;
 				flex: 0 0 auto;
 
 				& + .dropdown-label {
